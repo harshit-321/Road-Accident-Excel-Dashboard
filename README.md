@@ -1,7 +1,7 @@
 <div align="center">
 🚦 Road Accident Analysis Dashboard
 Interactive Excel Dashboard for Road Safety Analytics
-<img src="Road accident Dashboard.png" alt="Road Accident Excel Dashboard" width="100%" />
+<img src="Dashboard.png" alt="Road Accident Excel Dashboard" width="100%" />
 
 
 
@@ -13,26 +13,26 @@ Interactive Excel Dashboard for Road Safety Analytics
 </div>
 🚗 Project Overview
 
-The Road Accident Analysis Dashboard is a dynamic and interactive Excel-based analytics solution designed to analyze road accident casualties and identify key risk factors affecting road safety.
+The Road Accident Analysis Dashboard is a dynamic and interactive Excel-based analytics solution designed to analyze road accident casualties and contributing factors.
 
-This dashboard converts raw accident data into clear, visually driven insights, enabling stakeholders to monitor trends, understand accident severity, and support data-driven road safety decisions.
+This dashboard converts raw accident data into clear, actionable visual insights, helping authorities, analysts, and stakeholders understand accident trends, severity, and risk conditions.
 
-🎯 Objective: Reduce accident impact by identifying high-risk conditions, locations, and trends.
+🎯 Objective: Support data-driven road safety decisions by identifying high-risk patterns and reducing accident impact.
 
 📊 Key Metrics (KPIs)
 KPI	Description
-🚑 Total Casualties	Total number of reported casualties
+🚑 Total Casualties	Total number of accident casualties
 ☠️ Fatal Injuries	Number of fatal accidents
 ⚠️ Serious Injuries	Serious casualty count
 🩹 Slight Injuries	Minor injury cases
 🚗 Casualties by Car	Accidents involving cars
 🛣️ High-Risk Road Types	Roads with maximum casualties
 📈 Dashboard Analysis
-📅 Yearly & Monthly Trends
+🗓 Yearly & Monthly Trends
 
-Year-wise comparison (2020–2022)
+Year-wise accident comparison
 
-Monthly casualty trend analysis
+Month-wise casualty trends
 
 Identification of peak accident periods
 
@@ -48,7 +48,7 @@ Buses
 
 Agricultural vehicles
 
-🛣️ Road & Area Insights
+🛣️ Road & Area Analysis
 
 Single vs Dual carriageways
 
@@ -68,35 +68,21 @@ Daylight vs Darkness analysis
 
 ✔ Identifies high-risk road conditions
 ✔ Supports traffic safety planning
+✔ Helps reduce accident severity
 ✔ Enables preventive policy decisions
-✔ Improves accident trend monitoring
 ✔ Provides executive-ready reporting
 
 🛠 Tools & Techniques Used
-
-Microsoft Excel
-
-Pivot Tables & Pivot Charts
-
-Slicers & Timelines
-
-Advanced Excel Formulas
-
-Conditional Formatting
-
-Power Query for data cleaning
-
-Dashboard Design Best Practices
-
+<p align="left"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Pivot%20Tables-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Power%20Query-008272?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Cleaning-2196F3?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dashboard%20Design-FF9800?style=for-the-badge"/> </p>
 🎨 Design Features
 
-Clean, professional color theme
+Professional road-safety color theme
 
-Icon-based KPIs for quick interpretation
+Icon-based KPIs for fast understanding
 
-Interactive slicers (Year, Weather, Wind)
+Fully interactive slicers (Year, Weather, Wind)
 
-Executive-level layout
+Clean, executive-ready layout
 
 User-friendly navigation
 
@@ -104,7 +90,7 @@ User-friendly navigation
 
 Download the Excel file (Road_Accident_Analysis_Dashboard.xlsx)
 
-Open in Microsoft Excel (2016 or later recommended)
+Open using Microsoft Excel (2016 or later recommended)
 
 Enable content if prompted
 
@@ -112,11 +98,11 @@ Use slicers to filter:
 
 Year
 
-Weather Conditions
+Weather Condition
 
-Wind Conditions
+Wind Condition
 
-Explore insights instantly
+Analyze insights instantly
 
 🚀 Future Enhancements
 
@@ -124,7 +110,7 @@ Explore insights instantly
 
 📊 Automated data refresh
 
-📈 Predictive trend analysis
+📈 Predictive accident trends
 
 🔗 Power BI integration
 
@@ -136,6 +122,3 @@ Harshit Rathi
 <div align="center">
 ⭐ If you found this project useful, please consider starring the repository!
 </div>
-
-
-# 🏥 Hospital Emergency Room Dashb
