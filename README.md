@@ -1,7 +1,7 @@
 <div align="center">
 🚦 Road Accident Analysis Dashboard
 Interactive Excel Dashboard for Road Safety Analytics
-<img src="Dashboard.png" alt="Road Accident Excel Dashboard" width="100%" />
+<img src="Dashboard.png" alt="Road accident Dashboard" width="100%" />
 
 
 
