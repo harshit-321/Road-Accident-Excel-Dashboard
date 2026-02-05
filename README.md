@@ -1,125 +1,141 @@
+<div align="center">
 🚦 Road Accident Analysis Dashboard
-<p align="center"> <img src="Images/dashboard_preview.png" alt="Road Accident Dashboard" width="800"/> </p>
-📌 Project Overview
+Interactive Excel Dashboard for Road Safety Analytics
+<img src="Road accident Dashboard.png" alt="Road Accident Excel Dashboard" width="100%" />
 
-The Road Accident Analysis Dashboard is a professional business intelligence solution built to analyze road accident casualties across multiple dimensions including severity, vehicle type, road type, weather, lighting conditions, and time trends.
 
-The dashboard enables data-driven decision making for transportation authorities, policy makers, and safety analysts by transforming raw accident data into clear, actionable insights.
 
-🎯 Business Objectives
 
-✔ Monitor overall accident casualties and severity distribution
-✔ Identify high-risk road types and environmental conditions
-✔ Compare year-over-year accident trends
-✔ Enable interactive exploration using filters
-✔ Support road safety improvements and policy planning
 
-📊 Dashboard Highlights
-🔹 KPI Metrics
 
-Total Casualties
 
-Fatal, Serious & Slight Injuries
 
-Casualties by Car
+</div>
+🚗 Project Overview
 
-🔹 Analytical Views
+The Road Accident Analysis Dashboard is a dynamic and interactive Excel-based analytics solution designed to analyze road accident casualties and identify key risk factors affecting road safety.
 
-📈 Monthly Trend Analysis (Current Year vs Previous Year)
+This dashboard converts raw accident data into clear, visually driven insights, enabling stakeholders to monitor trends, understand accident severity, and support data-driven road safety decisions.
 
-🚗 Casualties by Vehicle Type
+🎯 Objective: Reduce accident impact by identifying high-risk conditions, locations, and trends.
 
-🛣️ Casualties by Road Type
+📊 Key Metrics (KPIs)
+KPI	Description
+🚑 Total Casualties	Total number of reported casualties
+☠️ Fatal Injuries	Number of fatal accidents
+⚠️ Serious Injuries	Serious casualty count
+🩹 Slight Injuries	Minor injury cases
+🚗 Casualties by Car	Accidents involving cars
+🛣️ High-Risk Road Types	Roads with maximum casualties
+📈 Dashboard Analysis
+📅 Yearly & Monthly Trends
 
-🌆 Area-wise Distribution (Urban / Rural)
+Year-wise comparison (2020–2022)
 
-🌙 Light Conditions Impact
+Monthly casualty trend analysis
 
-🌦️ Weather & Wind Condition Analysis
+Identification of peak accident periods
 
-🧩 Interactive Features
+🚙 Vehicle Type Analysis
 
-📅 Accident Date Range Filter (2020–2022)
+Cars
 
-🌦️ Weather Condition Slicer
+Motorcycles
 
-🌬️ Wind Condition Selector
+Trucks
 
-⚡ Real-time visual updates across all charts
+Buses
 
-🛠️ Tools & Technologies Used
-<p align="left"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Power%20Query-008272?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Visualization-2196F3?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dashboard%20Design-FF9800?style=for-the-badge"/> </p>
-🧠 Data Processing Workflow
+Agricultural vehicles
 
-Data Collection – Road accident datasets (2020–2022)
+🛣️ Road & Area Insights
 
-Data Cleaning – Power Query transformations
+Single vs Dual carriageways
 
-Data Modeling – Relationships & calculated measures
+Roundabouts & slip roads
 
-DAX Measures – KPIs & dynamic calculations
+Urban vs Rural accident distribution
 
-Visualization – Executive-friendly dashboard layout
+🌦️ Environmental Conditions
 
-📂 Repository Structure
-├── Dashboard/
-│   └── Road_Accident_Analysis_Dashboard.pbix
-├── Data/
-│   ├── Raw_Data.csv
-│   └── Cleaned_Data.csv
-├── Images/
-│   └── dashboard_preview.png
-├── README.md
+Weather impact (Fine, Rain, Snow, Fog)
 
-📈 Key Insights Generated
+Wind conditions
 
-🚗 Cars contribute the highest number of casualties
+Daylight vs Darkness analysis
 
-🛣️ Single carriageway roads show the highest accident rates
+🧠 Business Impact
 
-🌞 Most accidents occur during daylight conditions
+✔ Identifies high-risk road conditions
+✔ Supports traffic safety planning
+✔ Enables preventive policy decisions
+✔ Improves accident trend monitoring
+✔ Provides executive-ready reporting
 
-📆 Certain months exhibit peak casualty trends, indicating seasonal risk patterns
+🛠 Tools & Techniques Used
 
-🚀 How to Run the Project
+Microsoft Excel
 
-Clone the repository
+Pivot Tables & Pivot Charts
 
-Open the .pbix file using Power BI Desktop
+Slicers & Timelines
 
-Refresh data (if required)
+Advanced Excel Formulas
 
-Use slicers to interact with the dashboard
+Conditional Formatting
 
-🔮 Future Enhancements
+Power Query for data cleaning
 
-🗺️ Accident location heatmaps
+Dashboard Design Best Practices
 
-📊 Drill-through accident reports
+🎨 Design Features
 
-🤖 Predictive accident risk modeling
+Clean, professional color theme
 
-🔗 Integration with real-time traffic or weather APIs
+Icon-based KPIs for quick interpretation
+
+Interactive slicers (Year, Weather, Wind)
+
+Executive-level layout
+
+User-friendly navigation
+
+📌 How to Use
+
+Download the Excel file (Road_Accident_Analysis_Dashboard.xlsx)
+
+Open in Microsoft Excel (2016 or later recommended)
+
+Enable content if prompted
+
+Use slicers to filter:
+
+Year
+
+Weather Conditions
+
+Wind Conditions
+
+Explore insights instantly
+
+🚀 Future Enhancements
+
+🗺️ Accident location mapping
+
+📊 Automated data refresh
+
+📈 Predictive trend analysis
+
+🔗 Power BI integration
 
 👤 Author
 
-Your Name
-📊 Data Analyst | Business Intelligence Developer
-📧 Email: your.email@example.com
+Harshit Rathi
+📊 Data Analyst | Excel Dashboard Developer
 
-🔗 LinkedIn: linkedin.com/in/yourprofile
-💼 Portfolio: yourportfolio.com
+<div align="center">
+⭐ If you found this project useful, please consider starring the repository!
+</div>
 
-📄 License
 
-📜 This project is licensed under the MIT License — free to use with attribution.
-
-If you want, I can also:
-
-Add GitHub badges (stars, forks, license, last commit)
-
-Customize it for resume / LinkedIn projects
-
-Rewrite it for corporate or government submissions
-
-Just say the word 🚀
+# 🏥 Hospital Emergency Room Dashb
