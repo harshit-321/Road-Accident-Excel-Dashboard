@@ -1,7 +1,7 @@
-##🚦 Road Accident Analysis Dashboard
+##**🚦 Road Accident Analysis Dashboard**
 <img src="Road accident Dashboard.png" alt="" width="100%" />
 
-##📌 Project Overview
+**📌 Project Overview**
 
 The Road Accident Analysis Dashboard is an interactive business intelligence solution designed to analyze and visualize road accident data across multiple dimensions such as severity, vehicle type, road type, lighting conditions, weather, and time. The dashboard enables stakeholders to quickly identify trends, risk factors, and high-impact areas to support data-driven decision-making for road safety improvements.
 
@@ -10,7 +10,7 @@ This project is suitable for use by transportation authorities, policy makers, a
 
 ---
 
-##🎯 Dashboard Objectives
+**🎯 Dashboard Objectives**
 
 Provide a consolidated view of road accident casualties
 
