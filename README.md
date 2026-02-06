@@ -1,4 +1,4 @@
-##**🚦 Road Accident Analysis Dashboard**
+                                               <h1> **🚦 Road Accident Analysis Dashboard**</h1>
 <img src="Road accident Dashboard.png" alt="" width="100%" />
 
 **📌 Project Overview**
@@ -26,7 +26,7 @@ Present insights in a clear, visually intuitive format
 
 ---
 
-##🎨 Logo Design & Visual Identity Analysis
+**🎨 Logo Design & Visual Identity Analysis**
 
 The dashboard logo and visual elements are designed to clearly communicate the project’s purpose and ensure usability:
 
