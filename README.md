@@ -1,4 +1,4 @@
-                                               <h1> **🚦 Road Accident Analysis Dashboard**</h1>
+                                                **🚦 Road Accident Analysis Dashboard**
 <img src="Road accident Dashboard.png" alt="" width="100%" />
 
 **📌 Project Overview**
@@ -44,7 +44,7 @@ The overall design emphasizes clarity, urgency, and analytical focus, which is c
 
 ---
 
-##📊 Key Metrics Overview
+**📊 Key Metrics Overview**
 
 Total Casualties
 
@@ -62,9 +62,9 @@ Each KPI is displayed using summary cards with percentage indicators for quick a
 
 ---
 
-##🔍 Analytical Components Breakdown
+**🔍 Analytical Components Breakdown**
 
-#🚗 1. Casualties by Vehicle Type
+🚗 1. Casualties by Vehicle Type
 
 Visual breakdown of casualties involving:
 
@@ -134,7 +134,7 @@ Other surface conditions
 
 ---
 
-#🧭 Interactive Filter & Slicers Panel
+**🧭 Interactive Filter & Slicers Panel**
 
 The dashboard includes a dynamic filter panel that allows users to slice data by:
 
@@ -150,14 +150,14 @@ These filters enable focused and customized analysis.
 
 ---
 
-#🛠️ Tools, Technologies & Stack
+**🛠️ Tools, Technologies & Stack**
 
-#📊 Data Visualization 
+**📊 Data Visualization** 
 
 Microsoft Power BI – Used to build interactive dashboards, DAX measures, and visual analytics.
 
 
-#🧹 Data Processing
+**🧹 Data Processing**
 
 Microsoft Excel / CSV – Data cleaning, preprocessing, and transformation.
 
@@ -167,7 +167,7 @@ Microsoft Excel / CSV – Data cleaning, preprocessing, and transformation.
 GitHub – Source control, project documentation, and portfolio showcase.
 
 
-#🎯 Design Elements
+**🎯 Design Elements**
 
 Built-in Power BI Visuals – Cards, bar charts, line charts, donut charts, slicers.
 
@@ -177,7 +177,7 @@ Custom Color Themes – Applied for consistent branding and clarity.
 
 ---
 
-#💡 Key Insights, Findings & Use Cases
+**💡 Key Insights, Findings & Use Cases**
 
 Identify accident-prone road types and conditions
 
@@ -191,7 +191,7 @@ Enhance reporting efficiency with a single source of truth
 
 ---
 
-#✅ Conclusion
+**✅ Conclusion**
 
 The Road Accident Analysis Dashboard demonstrates effective use of data visualization, analytical thinking, and professional dashboard design. It transforms raw accident data into meaningful insights, making it a strong addition to any data analytics or business intelligence portfolio.
 
