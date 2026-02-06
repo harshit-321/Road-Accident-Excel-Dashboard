@@ -1,4 +1,4 @@
-                                                ** 🚦 Road Accident Analysis Dashboard **
+** 🚦 Road Accident Analysis Dashboard **
 <img src="Road accident Dashboard.png" alt="" width="100%" />
 
 **📌 Project Overview**
