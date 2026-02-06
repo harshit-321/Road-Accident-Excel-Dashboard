@@ -79,11 +79,11 @@ Trucks
 Agricultural vehicles
 
 
-#📈 2. CY vs PY Monthly Trend
+📈 2. CY vs PY Monthly Trend
 
 Line chart comparing Current Year vs Previous Year monthly casualties to identify seasonal patterns and trend changes.
 
-#🛣️ 3. Casualties by Road Type
+🛣️ 3. Casualties by Road Type
 
 Bar chart analysis across:
 
@@ -98,7 +98,7 @@ One-way Street
 Slip Road
 
 
-#🌍 4. Area-wise Casualties
+🌍 4. Area-wise Casualties
 
 Donut chart representation of:
 
@@ -109,7 +109,7 @@ Rural areas
 Unallocated areas
 
 
-#💡 5. Casualties by Light Condition
+💡 5. Casualties by Light Condition
 
 Analysis of accidents occurring during:
 
@@ -118,7 +118,7 @@ Daylight
 Darkness
 
 
-#🌦️ 6. Casualties by Weather & Surface Conditions
+🌦️ 6. Casualties by Weather & Surface Conditions
 
 Comparative view of:
 
